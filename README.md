@@ -1,1 +1,1 @@
-# java-educator-service
+Репозиторий java-educator-service проекта Tayviscon Edu Platform
